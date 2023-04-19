@@ -1,0 +1,5 @@
+{"name": "x", 
+    "scripts":{
+      "up": "bash build.sh bc"
+    }
+}

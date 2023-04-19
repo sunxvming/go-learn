@@ -1,0 +1,1 @@
+cp BackEnd/*.php /root/uw/other_web/laravel-web/sdk/resources/lang/
